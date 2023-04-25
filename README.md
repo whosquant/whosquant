@@ -4,7 +4,7 @@ I'm Jeremy Meng ! I am a quant and a geek！
 
 I have been involved in research on WorldQuant Brain platform [WorldQuant Brain](https://platform.worldquantbrain.com/) for 3 years.
 
-I got top 10 in china in iqc 2019. and i got globally 11th in the recent competition MAPC. IF you are a brain member, you can check my profile in [worldquant](https://platform.worldquantbrain.com/profile/public/ZM43612)
+I got top 10 in china region in iqc 2019. and i got globally [11th](./MAPC2023%20Certificate.pdf) and china 1st in the recent competition MAPC. IF you are a brain member, you can check my profile in [worldquant](https://platform.worldquantbrain.com/profile/public/ZM43612)
 
 I also do some trade in crypto,and write strategy online in tradingview,which is one of the biggest crypto community online.this is my profile in [tradingview](https://cn.tradingview.com/u/jeremytousnet/#published-scripts)
  
