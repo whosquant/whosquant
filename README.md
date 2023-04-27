@@ -14,7 +14,7 @@ before that, I received a bachelor degree from Nanjing Forestry University (Nanj
 
 😅🔆 I enjoy a variety of sports, including, football, swimming, basketball. I also love cooking in my free time.
 
-📧📬 If you have any question about my projects, you can email me: road2quant@163.com  
+📧📬 If you have any question about my projects, you can email me: jeremyatcourse@163.com  
 
 😃💡 Research Interests: Quantitative Finance, Data Mining.
 
