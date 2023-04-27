@@ -12,8 +12,6 @@ I graduated with a MF degree in quantitative Finance from University of Internat
 
 before that, I received a bachelor degree from Nanjing Forestry University (Nanjing, China) in 2017. and i major in chemistry. between the 2 education, i take a gap year and fight for the exam.
 
-👀🔑 I’m currently working on data science in A commersial bank, by using Python, Matlab, Machine learning models.
-
 😅🔆 I enjoy a variety of sports, including, football, swimming, basketball. I also love cooking in my free time.
 
 📧📬 If you have any question about my projects, you can email me: road2quant@163.com  
